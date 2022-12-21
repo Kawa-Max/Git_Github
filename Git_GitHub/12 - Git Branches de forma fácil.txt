@@ -1,0 +1,55 @@
+
+	Branches ou Ramificações
+
+Branch = ramo
+
+Sempre que vc cria um repositório novo, um ramo é obrigatorio 'master', e quando vc faz seu codigo, vc faz um 'commit' e gera uma sub-versão e a qualquer momento, vc pode colocar no seu 'origin'
+
+*origin = repositorio remoto
+
+cada commit cria uma versão nova no 'master' e o push manda para a origin
+
+Quando começamos usar Git e GitHub é bem normal só comitarmos na branch 'master', mas é melhor evitar de comitar TUDO na master.
+
+----------------------------------------------
+
+Quando tiver alguma alteração para fazer, quando vc for desenvolver uma ficher nova, vc cria uma nova branch, um novo ramo e comita nessa branch nova.
+
+Usa-se o 'merge' para fazer a junção do branch novo com o ramo principal.
+
+Se precisar apagar uma branch, não ira dar alteração no 'master'
+----------------------------------------------
+
+Criando Branches:
+
+ 	No menu, clique em Branch --> New 	Branch e preencha os dados 	corretamente
+---------------------------------------------- Merge:
+
+	Current Branches tem que esta no 	principal, entt vc vai no menu -> 	Branche -> Merge into Current Branch	(Ctrl + Shift + M)
+
+	E entt, irá aparecer uma telinha, dai 	é so clicar em 'Merge (nome da 	branch) into (principal)'	
+----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

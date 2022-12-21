@@ -1,0 +1,20 @@
+
+No perfil da pessoa que você vai clonar, dentro do gitHub;
+
+Selecione o repositório a ser clonado, e procure por 'Clone or download', 'Code', ou 'Codigo'(será um botão verde);
+
+logo a seguir, clique em 'Open with GitHub Desktop', 'Abra com GitHub Desktop'
+
+click --> 'Abrir  GitHubDesktop' e aguarde.
+
+No app do GitHub Desktop que irá abrir;
+
+Escolha o local onde será salvo;
+
+click in 'Clone' e aguarde que TODO O REPOSITÓRIO SERÁ CLONADO, TUDO SERÁ BAIXADO NA SUA MAQUINA
+
+Para saber se um arquivo está versionado ou não, dentro do gerenciador de arquivos, quando estiver na pasta do arquivo, procure por EXIBIR' e ative a parte de 'mostrar arquivos ocultos' e caso apareça uma pasta '.git', é sinal que está sim versionado
+
+*
+Você não pode editar um codigo de algum repositório aleatório e fazer um push desse repositório de volta no repositório oficial, mas você pode fazer um fork, assunto de outra aula ;) 
+*

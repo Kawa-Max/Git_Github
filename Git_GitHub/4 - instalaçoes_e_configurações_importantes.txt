@@ -1,0 +1,33 @@
+O que preciso instalar no meu computador? 
+-------------------------------------------------------------------------------------
+- Bom navegador - Google Chrome
+		ou 
+- Um navegador da Microsoft - Edge
+
+- Editor de codigo - VisualStudio Code ou qualquer outro que queira usar
+
+- Git
+
+- GitHub Desktop
+-------------------------------------------------------------------------------------
+Chrome:
+
+	google.com/intl/pt-BR/chrome/?standalone=1
+
+VsCode:
+
+	code.visualstudio.com --> versão Stable
+
+Git:
+
+	git-scm.com 
+
+GitHub Desktop:
+
+	desktop.github.com
+
+---------------------------------------------------------------------------------------
+
+Abrir o gerenciador de arquivos e instalar na aba de downloads
+
+---------------------------------------------------------------------------------------

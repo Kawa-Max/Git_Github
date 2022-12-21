@@ -1,0 +1,126 @@
+Markdown é uma Linguagem de marcação, criada por John Gruber e Aaron Swartz, compativél com varias coisas, principalmente com GitHub.
+
+Referente ao HTML, podém mais 'facíl' de ler.
+
+Onde aplico md no github? 
+	README, Issues e Pull request.
+-----------------------------------------------
+- Primeiros passos com Markdown:
+
+	**texto em Negrito** ou __txt__
+	*texto em Itálico* ou _txt_
+	# Titúlo
+	## Subtitúlo
+	### 3° Titúlo
+	~~Texto riscado~~
+	*** ou ---, faz uma linha abaixo do texto
+
+- Misturando configurações: 
+
+	__*texto em negrito e italico*__
+
+- Lista Numerada:
+
+	1. Teste
+	0. Teste2
+	  1. Teste3
+	 1. Teste4
+	999. Teste5
+
+- Lista Decarmaca:
+
+	* ou -
+	* teste
+	* teste
+	* teste
+	* teste
+	 * teste
+	* teste
+	* teste
+
+- Lista de Tarefa:
+
+	- [] Criar a página principal
+	- [] Criar página da loja
+	- [] Finalizar a reunião com o cliente
+	- [] Receber pagamento
+
+Para marcar a tarefa como 'concluida', basta colocar um 'x' dento do colchete'[]' 
+
+ex:
+	- [x] Criar a página principal
+	- [x] Criar página da loja
+	- [] Finalizar a reunião com o cliente
+	- [] Receber pagamento
+
+- Colocando imagens:
+	É só arastar a imagem desejada para a parte escrita 'Attach files by dragging & dropping, selecting or pasting them' e aguardar o upload;
+
+	Recomendado não fazer upload de imagens muito grandes;
+
+- Criando links:
+
+	[Acesse meu GitHub](https://github.com/Kawa-Max)
+
+- Tabelas:
+	
+	Num | Nome | Nota
+	---|---|---
+	1 | Max | 9
+	2 | José | 10
+	3 | Gustavo | 8,5
+	4 | Maria | 7
+
+	Terminou Tabela
+
+- Fazendo comando:
+
+	É so colocar o comando em craze, ``
+ex:
+
+	`document.getElementByld()` JavaScript
+
+- Trexos de programas:
+
+	```
+	num = int(input('Digite um valor: '))
+	if num % 2 == 0:
+	    print(f'O valor {num} é par')
+	else:
+	    print(f'O valor {num} é impar')
+	```
+
+- Emojis
+
+	Usa-se ':e o nome do emoji'
+
+Para saber os codigos de emoji, acesse o GitHub de Ikatyang (github.com/ikatyang), e abra o repositório de nome 'emoji-cheat-sheet'
+
+Para usar emoji no titúlo, acesse o site 'emojipedia.org', escolha o emijo e procure por 'copy and paste this emoji: emoji - copy'
+clique em copy, volte no seu github, e cole no titulo
+
+
+- Citações e marcação:
+
+	Menção: usa-se o @com o nome do perfil da pessoa
+
+	Citação: clique nas '...' e 
+	clique em Quout Replay ou
+ 	sinal > com a postagem
+
+-----------------------------------------------
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+

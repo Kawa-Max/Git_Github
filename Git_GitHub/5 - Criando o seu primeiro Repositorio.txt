@@ -1,0 +1,20 @@
+- No app Desktop GitHub, clicar em CRIAR NOVO REPOSITORIO EM HARDWARE(vai estar em ingles)
+
+- Dar um nome e uma descrição
+
+- Escolher onde vai salvar o repositorio
+
+- Inicializar com README
+
+- Lincense MIT License
+
+- click 'create repository'
+------------------------------------------------------------------------
+
+- Click 'publicar repositório'
+
+- Desmarcar a opção de repositorio privado
+
+
+
+

@@ -1,0 +1,40 @@
+
+- No app Desktop GitHub, acesse o menu, e click em File, e clique em 'New Repository', preencha os dados corretamente, com nome do repositório, (descrição opcional), e local correto onde estará o repositório;
+
+- Marque a opção 'Initialie this repository with a README'
+
+- No momento, deixe o Git ignire com 'None'
+      E o License, coloque 'MIT License';
+
+- Após criar, procure por 'publish repository'
+      verifique as informações, desmarque a opção 'keep this code private'
+      caso queira adicionar o repositório em uma organização da qual lhe pertence, aparecerá a opção 'Organization', clique e selecione a organização que deseja.
+
+Colocando os arquivos no GitHub:
+
+- Abra duas abas do seu gerenciador de arquivos;
+
+    Uma aba, abra a pasta/repositorio que você criou
+
+    A outra, abra a pasta dos arquivos que quer adicionar no seu repositório, se caso precisar... crie pastas para adiciona-los
+
+- Arraste os arquivos que quer adicionar para a aba do repositório; 
+    ou clique na pasta e segure o Ctrl + C, 
+    e na aba do repositório, segure o Ctrl + V
+
+- Abra o Desktop GitHub, e verifique se sua pasta está com 'arquivos inúteis' e os apague* antes de comitar
+
+	apagar = selecione a pasta, arquivo e clique com o botão direito, selecione a opção 'Ignore File(ADD.gitignore)'
+
+- Fazendo isso, é so comitar, aguardar e fazer um push.
+
+
+
+
+
+
+
+
+
+
+

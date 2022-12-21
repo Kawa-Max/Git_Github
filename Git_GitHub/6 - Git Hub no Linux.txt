@@ -1,0 +1,65 @@
+Google Chrome
+
+- Abra o navegador e digite Google Chrome;
+
+Escolher qual versão baixar;
+Aguardar o download e instalar.
+------------------------------------------------
+Git
+
+- Baixar o Git pelo terminal*, usando os comandos: 
+
+- sudo apt update 
+senha
+'aguardar
+- sudo apt update
+'aguardar
+- sudo apt upgrade -y
+'aguardar
+clear(limpar tela)
+- sudo apt install git -y 
+'aguardar
+para ver a versão, git --version
+exit (sair do terminal)
+
+terminal = Ctrl + Alt + t
+------------------------------------------------
+VisualStudio Code
+
+abrir o navegador, pesquisar por VisualStudioCode.
+
+No site oficial do VScode, baixar a versão instavél. No caso a versão .deb
+senha
+
+Aguardar e instalar
+
+------------------------------------------------
+
+Desktop GitHub
+
+- Pelo navegador, acessar o perfil SHIFTKEY no GitHub, clicar em 'repositório'/'REPOSITORIES';
+
+- Abrir o repositório de nome, 'desktop', caso n achar é so pesquisar na aba de 'pesquisa de repositorio';
+
+- Clicar no repositório, e rolar a tela para baixo, até encontrar a frase:
+'What is this repository for?';
+
+- Achando isso, clique em 'latest releases'/'ultimas versões';
+
+- clicar em '(versão que estiver) Linux RC1';
+  procure por 'Assets' e escolha a versão que deseja baixar;
+ aguardar e quando baixar, clicar no arquivo para instalar; aguardar o carregamento, e instalar.
+ 
+ de resto, é so abrir o app e logar com o e-mail e senha do seu GitHub
+
+------------------------------------------------
+
+
+
+
+
+
+
+
+
+

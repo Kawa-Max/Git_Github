@@ -1,0 +1,54 @@
+Para que serve o Git?
+
+Git é diferente de GitHub
+ ------------------------------------------------
+|Git --> é um Software de Controle de Versão	 |
+|Github --> é uma Plataforma de Rede Social para ||Programadores					 |
+ ------------------------------------------------
+
+Git é uma ferramenta de VERSIONAMENTO de codigos, e outras coisas
+
+Versionamento == Versões
+Na vida do programador, sempre 'lidamos com muitas VERSÕES da mesma coisa' 
+
+Precisamos de um Controle de Versão(VCS)
+--------------------------------------------------
+Existem 2 tipos de VCS:
+ Centralizado/Linear = Modelo com Repositorio Central
+ 
+ Distribuido = Modelo com Repositorio Local
+-------------------------------------------------
+=================================================
+exemplos de VCS's:
+
+centralizado/linear 
+---------------------------------
+CA Software Charge Mananger(CCC) |
+Souce Code Control System(SCCS)	 |
+Panvalet		    	 |
+*Concurrent Version System(CVS)  |
+*Apache Subversion(SVN)	 	 |
+ClearCase		 	 |
+Visual SourceSafe		 |
+Perforce			 |
+---------------------------------	
+distribuido
+---------------------------------
+Mercurial		 	 |
+Bazzar				 |
+Code Co-op			 |
+GNU arch			 |
+Monotone			 |
+Fossil 				 |
+*BitKeeper			 |
+*Git				 |
+---------------------------------
+==================================================
+
+Vantagens principais:
+
+-> Controle de histórico;
+-> Trabalho em equipe
+-> Ramificação do projeto
+-> Segurança
+-> Organização

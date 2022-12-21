@@ -1,0 +1,50 @@
+Pra que Serve o GitHub?
+
+Git é o repositorio local
+GitHub é o repositorio remoto
+
+GitHub é um local onde vc pode criar repositorio, ver e comentar em outros repositorios
+
+Podemos habilitar hospedagem simples
+Podemos habilitar 'quero ser encontrado para vagas de emprego'
+
+--------------------------------------
+Coisas que o GitHub tem:
+
+-> Repositorios Ilimitados
+-> Hospedagem de código-fonte
+-> Caracteristicas de Redes Sociais
+-> GitHub Pages integrados(hospedagem)
+-> Colaboração
+-> Forks
+--------------------------------------
+Só existe o GitHub ? Não
+
+existe também:
+ GitLab
+ Bitbucket
+ Phabricator
+ Gogs
+ Kallithea
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Vamos criar seu perfil no GitHub? -Claro
+
+abre o navegador -> pesquisar por GitHub:
+
+  Escolher um nome de usuario;
+  Criar um e-mail e senha;
+  Fazer a verificação;
+  Escolher o plano gratuito;
+  Responder as perguntas;
+  Depois so clicar em 'completar perfil';
+
+Acessar o e-mail e verificar, e pronto.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+
+
+
+

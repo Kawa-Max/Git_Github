@@ -1,0 +1,52 @@
+
+- Segurança no GitHub:
+
+SENHAS;
+	Pelo menos 8 caracteres
+	Letras e números
+	Maiúsculas e minúsculas
+	Símbolos
+	Evitar nomes e palavras comuns
+	Evitar padrões
+	Nunca compartilhar uma senha
+
+É recomendado usar 'Two-factor authentication'(verificação em duas etapas)
+
+Para fazer a verificação, no seu perfil, clique em 'settings -> Password and authentication -> Two-factor authentication(clicar no botão verde) '
+
+Não usar a verificação por sms
+
+Escolha a opção 'Configurar usando um aplicativo'
+
+Irá aparecer uns codigos de reculperação, clique em uma das opções 'download', 'print' ou 'copy' para prosseguir
+
+*recomendado = download
+
+Ai sim, clica em 'next' para prosseguir
+
+Quando continuar, aparecerá um QrCode que vc ira ler com seu celular usando o app Google Authenticator 
+
+Um codigo de 6 digitos será gerado no app, e vc tem alguns segundos para usa-lo no login.
+Assim que usar o codigo, a verificação estará feita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

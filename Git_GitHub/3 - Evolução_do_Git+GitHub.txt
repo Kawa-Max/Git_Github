@@ -1,0 +1,85 @@
+De onde vieram o Git e o GitHub
+
+Quem veio primeiro, o Git ou GitHub?
+
+Um pouco de historia...
+
+1985 
+ CVS
+- CENTRALIZADO
+- OPEN SOURCE
+- MAIS POPULAR
+- ALGUNS PROBLEMAS(consistência, velocidade)
+ 
+2000
+ SVN
+- CENTRALIZADO
+- OPEN SOURCE
+- ATIVO ATÉ HOJE
+- CVS-like(COPIA DO CVS)
+
+2000
+ BITKEEPER
+- DISTRIBUIDO
+- PROPRIETÁRIO
+- VERSÃO COMUNIDADE --> MAIOR 'CLIENTE', ERA O LINUX
+- CVS-free(totalmente diferente do CVS)
+
+2004 - BitKeeper 
+
+Neste ano, Andrew alguma coisa, criou o SourcePuller, um programa que fazia acesso ao repositorio, um cliente do BitKeeper, e desenvolveu um hack, utilizando Engenharia Reversa, que disponibilizava Recursos que a versão COMUNITTY n tinha, e o McVoi (dono da BitKeeper). E gerou uma briga gigante
+
+No inicio de 2005, o BitKeeper 'lançou':
+- Uma Nova Licença
+- Bloqueou o Acesso a Metadados e dificultou o acesso a dif's
+- Só disponibilizou na versão comercial
+
+Então, Linus Torvalds disse que criaria um software, e deu o nome de Git, por conta dessa treta com McVoi
+
+2005
+ Git
+- CENTRALIZADO
+- OPEN SOURCE
+- FEITO EM 10 DIAS
+- FOCADO EM PERFORMACE(LEVAVA 1s 2s PARA GERAR UM COMMIT)
+
+O QUE QUER DIZER "GIT"? sempre que questionado, Linus dava uma resposta diferente
+
+- Três letras do alfabeto 
+- Giria inglesa que signifa Teimoso, cabeça-dura, pensa que sempre está certa
+- Global Information Tracker
+- Goddman idiotic truckload of shit
+
+E o GitHub ?
+
+Surgiu em 2008, criado por 4 programadores:
+ Tom Preston-Werner
+ P. J. Hyett
+ Scott Chacon
+ Chris Wanstrath
+
+GitHub
+ - Software proprietario
+ - Surgiu com Hospedagem de código
+ - Baseado em Git
+ - 2009: teve 46k repositorios
+ - 2010: 100k users/ 1M repositorios
+ - 2011: Ultrapassou o SourceForge
+ - 2013: 3Milhões de users/ 5M repositorios
+ - 2016: 14° lugar na lista da Forbes
+ - 2018: Maior ataque de DDoS da historia
+
+2018 a Microsoft adquiriu/comprou o GitHub por US$7.5 bilhões, e o GitHub continuou com uma Operação Independente
+
+2020 o GitHub comprou a npm(NodePackage Manager JavaScript)
+
+E esse mascote esquisito? 
+
+ Octocat - Cabeça de gato, e tentaculos de polvo. 
+Criado pelo Simon Oxley, mesmo criador do LaryBird(passarinho do twitter), e negociado pelos donos do GitHub.
+
+
+
+
+
+

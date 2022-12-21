@@ -1,0 +1,47 @@
+
+O que é ISSUES?
+   Traduzindo para o português, 'Problema'
+
+-------------------------------------------
+Resumindo, aréa de 'ajuda' na resolução de problemas nos códigos próprios ou de outras pessoas, onde podemos comentar sugestões de melhorias e interagir com o titular do projeto
+-------------------------------------------
+
+	EVITAR CRIAR ISSUES DUPLICADAS.
+
+-------------------------------------------
+
+Nunca criar Issues sem antes pesquisar Issues sobre seu problema.
+
+-------------------------------------------
+
+Para parar uma Issues, procure por 'lock conversation' e escolha o motivo do fechamento
+
+-------------------------------------------
+
+Issues pinned -- procure por pin e ative
+
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

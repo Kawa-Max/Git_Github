@@ -1,0 +1,11 @@
+
+- Habilitando o GitHub sites;
+
+  Primeiro passso:
+Acesse o seu perfil, clique no nome do repositorio que quer hospedar o site html, procure por
+ 'Settings -> GitHub Pages'
+ Procure por 'none', clique e selecione a opção 'master branch', voltando ao GitHub Pages terá o link para sua pagina hospedada
+
+Quando você faz um push ao GitHub, leva de 30s a 1min para ele aparecer la no GitHub 
+
+Para apagar uma Branche, no 'menu --> branch --> delete'
